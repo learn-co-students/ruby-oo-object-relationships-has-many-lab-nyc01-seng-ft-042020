@@ -35,7 +35,7 @@ class Song
 
     def artist_name
         # binding.pry
-        #   return artist name if instance of artist is true
+        #   return artist name if instance of song = artist is true
             artist.name if artist
         end
 
